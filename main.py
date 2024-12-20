@@ -92,7 +92,7 @@ def ollama_request_img(msg, image_path):
 # Handler for the /start command
 @bot.message_handler(commands=['start'])
 def welcome(message):
-    bot.reply_to(message, "HOULLAMA is a Non-Profit project, but if you would like to sponsor my next meal, send any amount to 93206190.\n\nI am Houllama2.0! What can I help you with?")
+    bot.reply_to(message, "I am Houllama2.0! What can I help you with?")
 
 
 # Handler for the /about command
