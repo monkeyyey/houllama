@@ -5,7 +5,7 @@ from telebot.types import BotCommand
 from datetime import datetime
 
 # Telegram Bot API token
-api_token = "7312829197:AAGvG0bhUbZ2KzuTfH9gLMyFhc5Q7f4_C4M"
+api_token = "MASKED_FOR_PRIVACY"
 bot = telebot.TeleBot(api_token)
 
 # CONSTANTS
