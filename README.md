@@ -1,7 +1,7 @@
 # houllama
 ## Introduction
 This is a simple AI chatbot implementation using a telebot and a local ollama installation. Single-image and/or text inputs are accepted!
-Below are the specifications:
+\n\nBelow are the specifications:
 - Ollama Model: LLaVA 1.6
 - Parameters: 7.24 billion
 ## Features
