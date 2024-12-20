@@ -1,0 +1,38 @@
+2024-11-16 21:26:18.834263 - Ze Hou (@monkeyyey): give me 4 examples of bodyweight exercises
+2024-11-16 21:33:13.102817 - Ze Hou (@monkeyyey): how are you
+2024-11-16 22:34:25.028907 - Ze Hou (@monkeyyey): name me 5 things that peoplle usually do in the before they sleep
+2024-11-16 23:25:12.168658 - ****MASKED_FOR_PRIVACY**** (@****MASKED_FOR_PRIVACY****): hi can you tell me what this means: 1. Transaction cost analysis
+(A) Governance – economic exchange (buy a product, pay money)
+Market governance
+Intermediate governance
+Hierarchical governance
+If hierarchical governance is expensive, they must consider
+• Level of specific investment
+• Cost of developing these capabilities
+• Cost of acquiring a firm with these capabilities.
+Amazon 
+
+Are there situations where intermediate governance is affected by market governance? (or can the governances be mixed?)
+
+e.g. a plastic company has a partnership with supplier who makes plastic using oil. The supplier manufactures plastic using oil (from market governance). Therefore, pricing will fluctuate for the plastic company.
+2024-11-16 23:28:25.683749 - Ze Hou (@monkeyyey): how are you
+2024-11-16 23:32:11.028579 - Ze Hou (@monkeyyey): how many types of spaghetti are there
+2024-11-17 00:11:38.802130 - Ze Hou (@monkeyyey): name me 2 exercises i can do at home
+2024-11-17 00:14:49.278722 - Ze Hou (@monkeyyey): how are you
+2024-12-04 11:10:37.238177 - ****MASKED_FOR_PRIVACY**** (@****MASKED_FOR_PRIVACY****): how can I make a telegram bot in python that sends a request to ollama to make queries
+2024-12-04 11:11:27.356984 - Ze Hou (@monkeyyey): South Korean President Yoon Suk Yeol is facing anger and opposition from multiple quarters following his decision to impose martial law, an order he backtracked on just hours later.
+
+Protesters are out on the streets this Wednesday (Dec 4) morning, calling for his resignation, while key members of Yoon's team have offered to quit en masse.
+
+His shock decision on Tuesday night to declare martial law - the first time for South Korea in over four decades - caught nearly everyone by surprise, including politicians and the country's closest allies around the world.
+
+Earlier, Yoon said opposition parties had taken the parliamentary process hostage, adding that there was a need to "safeguard a liberal South Korea from the threats posed by North Korea's communist forces".
+
+However, he did not give details of the North's threats.
+
+Follow the latest developments:
+
+Which country is this happening in?
+2024-12-04 11:11:33.636886 - Ze Hou (@monkeyyey): smart
+2024-12-04 11:11:39.855887 - Ze Hou (@monkeyyey): ****MASKED_FOR_PRIVACY****
+2024-12-04 11:11:50.139673 - Ze Hou (@monkeyyey): ****MASKED_FOR_PRIVACY****
